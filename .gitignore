@@ -1,0 +1,8 @@
+*.pyc
+*.egg
+*.egg-info
+doc/_build
+dist
+
+# Selenium log files
+*driver.log
